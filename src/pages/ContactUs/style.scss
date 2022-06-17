@@ -1,0 +1,37 @@
+.contact-us {
+  background-image: linear-gradient(
+    to right bottom,
+    #0d1d3a,
+    #1a2f55 52%,
+    #365a83
+  );
+  height: 100vh;
+  padding: 100px 0px;
+  padding-top: 180px;
+  .layout-contact {
+    padding: 35px 20px;
+    max-width: 850px;
+    margin: 0px auto;
+    border-radius: 2px;
+    box-shadow: 0 0 0 2px #aeddff1a;
+    color: #aeddffcc;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1.64;
+    font-size: 14px;
+    strong {
+      color: #aeddff;
+      font-weight: 700;
+    }
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .contact-us {
+    padding: 110px 15px;
+    padding-bottom: 30px;
+  }
+  .layout-contact {
+    padding: 20px;
+  }
+}
