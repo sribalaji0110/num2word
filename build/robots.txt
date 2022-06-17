@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://numberstowords.online/sitemap.xml
+
