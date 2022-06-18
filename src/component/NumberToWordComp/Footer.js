@@ -32,10 +32,11 @@ export default function Footer() {
           <a
             href="https://www.facebook.com/numberstowords"
             target={"_blank"}
+            rel="noopener noreferrer"
             className="facebook"
           >
             <FacebookFilled />
-          </a> 
+          </a>
         </div>
       </div>
     </div>
