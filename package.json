@@ -2,7 +2,7 @@
   "name": "numberstowords",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://numberstowords.online",
+  "homepage": "https://www.numberstowords.online/",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
